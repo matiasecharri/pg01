@@ -7,6 +7,7 @@
 3️⃣Usar flex:1, flex:1.5456, etc para dentro de un contenedor decirle a nuestros elementos cuanto ocupar
 flex: 1.235;
   display: flex;
+4️⃣; BEM MODEL FOR CSS
 */
 
 @import url("https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;500;600;700;800;900&display=swap");
